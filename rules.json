@@ -1,0 +1,5 @@
+{
+  "directories": ["./src", "./src2"],
+  "excludedFiles": ["excluded.js", "otherExcluded.txt", "excludedFolder"],
+  "destination": "./dist"
+}
